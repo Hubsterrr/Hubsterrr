@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hubert Luszczyszyn (@Hubsterrr)
-- 👀 I’m interested in software development and AI
+- 👀 I’m interested in software development, AI and ML
 - 🌱 I’m currently learning Python, AI and ML
 - 📫 How to reach me: hubert.luszczyszyn@gmail.com
 - 📎 LinkedIn profile: https://www.linkedin.com/in/hubert-luszczyszyn-46939a18b/
