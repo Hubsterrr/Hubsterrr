@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Python, AI and ML
 - 📫 How to reach me: hubert.luszczyszyn@gmail.com
 - 📎 LinkedIn profile: https://www.linkedin.com/in/hubert-luszczyszyn-46939a18b/
+- BREAK FROM 22.12.2022 TO 2.01.2023: was caused by working on University individual machine learning project which is available in the "Machine-Learning" repository
